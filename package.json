@@ -1,0 +1,14 @@
+{
+  "name": "sakura-themes",
+  "version": "1.0.0",
+  "description": "My themes for Sakura CSS framework (https://github.com/oxalorg/sakura)",
+  "scripts": {
+    "build": "sass themes:dist"
+  },
+  "author": "bensku",
+  "license": "MIT",
+  "dependencies": {
+    "sakura.css": "^1.4.1",
+    "sass": "^1.58.3"
+  }
+}
